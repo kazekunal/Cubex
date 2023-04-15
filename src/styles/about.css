@@ -1,0 +1,64 @@
+.main-body{
+    display: flex;
+    flex-direction: row;
+    margin: 0px 0px;
+}
+
+.body-left{
+    display: flex;
+    flex-direction: column;
+}
+
+.about-para{
+    font-size: 80px;
+    line-height: 88px;
+    font-family: 'Archivo', sans-serif;
+    margin-top: 82px;
+    margin-left: 67px;
+    letter-spacing: -3.2px;
+    text-align: left;
+}
+
+.aboutsub-para{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 36px;
+    letter-spacing: -0.4px;
+    color: #18181B;
+    margin-left: 67px;
+    margin-top: -42px;
+    text-align: left;
+    width: 35rem;
+}
+
+.about-right-img{
+    width: 40rem;
+    height: 35rem;
+    margin-left: 8rem;
+}
+
+.signup-para{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 68px;
+    width: 24%;
+    border-radius: 6px;
+    background-color: #C2FF66;
+}
+
+.signup-para1{
+    margin-left: 18px;
+    margin-right: 8px;
+}
+
+.arrow-signup{
+    width: 23px;
+    height: 23px;
+}
+/* .signup-pora{
+    width: 6rem;
+    height: 2rem;
+} */
