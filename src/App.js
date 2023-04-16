@@ -6,6 +6,7 @@ import Stack from './components/stack';
 import Stack2 from './components/stack2';
 import Block from './components/block';
 import Deploy from './components/deploy';
+import Footer from './components/footer';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Stack2/>
       <Block/>
       <Deploy/>
+      <Footer/>
     </div>
   );
 }
