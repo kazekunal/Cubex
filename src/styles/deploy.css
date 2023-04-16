@@ -1,0 +1,29 @@
+.para-deploy{
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: 6rem;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1.44px;
+    text-transform: uppercase;
+
+    color: #696977;
+
+}
+
+.para2-deploy{
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 67px;
+    margin-top: 0rem;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -1.68px;
+
+    color: #18181B;
+}
