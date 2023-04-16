@@ -1,0 +1,18 @@
+.meeting-stack{
+    display: flex;
+    flex-direction: row;
+}
+
+.para-grey-stack-right{
+    width: 50%;
+    margin-left: 8rem;
+    margin-top: 4rem;
+}
+
+.para-grey-stack-left{
+    width: 50%;
+}
+
+.para-stack2{
+    text-align: left;
+}

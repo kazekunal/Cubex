@@ -2,7 +2,8 @@ import './App.css';
 import Home from './components/home';
 import Navbar from './components/navbar';
 import About from './components/about';
-import Stack from './components/stack'
+import Stack from './components/stack';
+import Stack2 from './components/stack2';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Navbar/>
       <About/>
       <Stack/>
+      <Stack2/>
     </div>
   );
 }

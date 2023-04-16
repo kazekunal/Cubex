@@ -4,7 +4,7 @@ import '../styles/stack.css'
 import custom from '../assets/custom.png'
 import arrow from '../assets/arrow.png'
 import task from '../assets/task.png'
-import tick from '../assets/tick.png'
+// import tick from '../assets/tick.png'
 
 function Stack() {
   return (
@@ -33,7 +33,7 @@ function Stack() {
                     <img className='arr' src={arrow} alt='arrow'/>
                 </div>
             </div>
-            <div className='inside-grey-stack-left'>
+            <div className='inside-grey-stack-right'>
                 <div className='img-inside-stack'>
                     <img src={task} alt='task'/>
                 </div>
