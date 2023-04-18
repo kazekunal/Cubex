@@ -1,6 +1,7 @@
 .meeting-stack{
     display: flex;
     flex-direction: row;
+    margin: 0px 6rem;
 }
 
 .para-grey-stack-right{
