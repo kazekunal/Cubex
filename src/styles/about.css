@@ -1,7 +1,7 @@
 .main-body{
     display: flex;
     flex-direction: row;
-    margin: 0px 0px;
+    margin: 0px 6rem;
 }
 
 .body-left{
