@@ -3,8 +3,8 @@
     position: relative;
     margin-left: 10rem;
     margin-top: 6rem;
-    width: 69rem;
-    height: 14rem;
+    width: 72rem;
+    height: 23rem;
     background: #18181B;
     border-radius: 16px;
 }
@@ -13,10 +13,10 @@
 .footer-content{
     display: flex;
     flex-direction: row;
-    width: 69rem;
-    height: 15rem;
+    width: 72rem;
+    height: 23rem;
     margin-left: 12rem;
-    margin-top: -13rem;
+    margin-top: -20rem;
     color: white;
 }
 
@@ -43,6 +43,7 @@
     display: flex;
     flex-direction: row;
     margin-bottom: 2rem;
+    margin-left: 6rem;
 }
 
 .footer-logo-content>img{
@@ -51,6 +52,18 @@
 
 .para-footer{
     margin-bottom: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 25px;
+    display: flex;
+    text-align: left;
+    letter-spacing: -0.084px;
+    margin-left: 6rem;
+    color: #E4E4E7;
+    width: 24rem;
+    margin-top: -1rem;
 }
 
 .list1{
@@ -66,6 +79,38 @@
     letter-spacing: -0.084px;
 
     color: #9E9EA9;
+    margin-top: 14px;
 
 }
 
+.head-footer1,.head-footer2,.head-footer3{
+    text-align: left;
+    margin-bottom: 44px;
+}
+
+.head-footer1{
+    margin-left: 39px;
+}
+
+.head-footer2{
+    margin-left: 39px;
+}
+
+.head-footer3{
+    margin-left: 39px;
+}
+
+.footer-logo-content>img{
+    width: 2rem;
+    height: 2rem;
+    align-self: center;
+}
+
+.heading-footer{
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.img-footer{
+    margin-left: 13px;
+}

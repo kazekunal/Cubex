@@ -70,7 +70,8 @@ color: #4D4D56;
     display: grid;
     align-items: center;
     grid: 8.5rem / 18rem 18rem auto;
-    margin-left: 22rem;
+    margin-left: 18rem;
+    grid-gap: 2rem;
 }
 
 .grid{

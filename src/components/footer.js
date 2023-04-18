@@ -11,13 +11,13 @@ function Footer() {
             <div className='footer-content1'>
                 <div className='footer-logo-content'>
                 <img src={logo_white} alt='white_logo'/>
-                <p>Cubex</p>
+                <p className='heading-footer'>Cubex</p>
                 </div>
                 <p className='para-footer'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ante dui Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ante dui</p>
-                <img src={social} alt='links'/>
+                <img className='img-footer' src={social} alt='links'/>
             </div>
             <div className='footer-content2'>
-                <p className='head-footer'>Pages</p>
+                <p className='head-footer1'>Pages</p>
                 <ul>
                     <li className='list1'>Overview</li>
                     <li className='list1'>Home</li>
@@ -27,7 +27,7 @@ function Footer() {
                 </ul>
             </div>
             <div className='footer-content3'>
-                <p className='head-footer'>Company</p>
+                <p className='head-footer2'>Company</p>
                 <ul className='head-footer'>
                     <li className='list1'>Integration</li>
                     <li className='list1'>Blog</li>
@@ -36,7 +36,7 @@ function Footer() {
                 </ul>
             </div>
             <div className='footer-content4'>
-                <p className='head-footer'>Contact</p>
+                <p className='head-footer3'>Contact</p>
                 <ul className='head-footer'>
                     <li className='list1'>Login</li>
                     <li className='list1'>Register</li>
