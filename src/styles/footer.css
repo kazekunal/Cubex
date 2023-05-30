@@ -106,6 +106,14 @@
     align-self: center;
 }
 
+li{
+    cursor: pointer;
+}
+
+li:hover{
+    color: #E4E4E7;
+}
+
 .heading-footer{
     font-weight: 500;
     font-size: 25px;

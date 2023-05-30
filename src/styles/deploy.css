@@ -27,7 +27,11 @@ display: flex;
 align-items: center;
 letter-spacing: -0.176px;
 color: #4D4D56;
+}
 
+.circle-deploy:hover{
+    cursor: pointer;
+    background-color: #18181B;
 }
 
 .button-grid{
